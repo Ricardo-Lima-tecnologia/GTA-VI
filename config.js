@@ -16,9 +16,9 @@ const PRODUCT_INTRO = [
 ];
 
 const USE_CASES = [
-  { title: "Antes da primeira sessão", description: "O jogo abriu e você quer começar sem passar meia hora no menu. Vá ao capítulo 1, escolha o ajuste que mais afeta seu controle e faça um teste curto. Deixe os outros ajustes para quando tiver uma dificuldade concreta." },
-  { title: "Na segunda tentativa de uma missão", description: "Você falhou de novo e quer mudar alguma coisa antes de repetir. Abra a ficha de missão do apêndice, anote a dificuldade principal e escolha uma estratégia alternativa para comparar na próxima tentativa." },
-  { title: "Quando sobrou pouco tempo para jogar", description: "Você tem uma sessão curta e o mapa está cheio de opções. Consulte o capítulo 5, escolha um objetivo principal e deixe uma atividade próxima como opção se sobrar tempo." },
+  { title: "A câmera passa do ponto e você perde a referência", description: "Abra o capítulo 1, escolha o ajuste que mais afeta seu controle e faça o teste de 30 minutos. Em vez de tentar resolver na tentativa e erro, o guia propõe um critério claro para cada configuração." },
+  { title: "Você falhou na mesma missão duas vezes", description: "Abra a ficha de missão do apêndice, anote o que deu errado e escolha uma decisão diferente para a próxima tentativa. O guia separa causa de sintoma para facilitar o ajuste." },
+  { title: "A curva fugiu e o carro saiu da trajetória", description: "O capítulo de veículos divide cada curva em aproximação, entrada e saída. Consulte o cartão de condução do apêndice antes de voltar a qualquer perseguição ou missão de fuga." },
 ];
 
 const VALUE_EVIDENCE = [
